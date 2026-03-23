@@ -1,0 +1,594 @@
+[
+  {
+    "hostname": "antivirus45",
+    "owner": "Shelly",
+    "criticality": "critical",
+    "tags": [
+      "webteam"
+    ]
+  },
+  {
+    "hostname": "edtech82",
+    "owner": "Celestine",
+    "criticality": "critical",
+    "tags": [
+      "public"
+    ]
+  },
+  {
+    "hostname": "encryption47",
+    "owner": "Flor",
+    "criticality": "critical",
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "hostname": "kanban67",
+    "owner": "Roselia",
+    "criticality": "critical",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "hostname": "backupserver6",
+    "owner": "Gabbie",
+    "criticality": "critical",
+    "tags": [
+      "dmz"
+    ]
+  },
+  {
+    "hostname": "scaling55",
+    "owner": "Jermayne",
+    "criticality": "critical",
+    "tags": [
+      "dmz"
+    ]
+  },
+  {
+    "hostname": "cloudserver5",
+    "owner": "Tiffy",
+    "criticality": "critical",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "hostname": "webserver13",
+    "owner": "Cleo",
+    "criticality": "critical",
+    "tags": [
+      "windows"
+    ]
+  },
+  {
+    "hostname": "backup51",
+    "owner": "Denise",
+    "criticality": "critical",
+    "tags": [
+      "database"
+    ]
+  },
+  {
+    "hostname": "artificialintelligence77",
+    "owner": "Constancia",
+    "criticality": "critical",
+    "tags": [
+      "windows"
+    ]
+  },
+  {
+    "hostname": "scaling55",
+    "owner": "Clari",
+    "criticality": "critical",
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "hostname": "scaling55",
+    "owner": "Dorry",
+    "criticality": "critical",
+    "tags": [
+      "public"
+    ]
+  },
+  {
+    "hostname": "antivirus45",
+    "owner": "Matteo",
+    "criticality": "critical",
+    "tags": [
+      "public"
+    ]
+  },
+  {
+    "hostname": "alerting56",
+    "owner": "Diana",
+    "criticality": "critical",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "hostname": "devops62",
+    "owner": "Imelda",
+    "criticality": "critical",
+    "tags": [
+      "windows"
+    ]
+  },
+  {
+    "hostname": "govtech85",
+    "owner": "Natalya",
+    "criticality": "critical",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "hostname": "transportation96",
+    "owner": "Junette",
+    "criticality": "critical",
+    "tags": [
+      "windows"
+    ]
+  },
+  {
+    "hostname": "sportstech90",
+    "owner": "Jarvis",
+    "criticality": "critical",
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "hostname": "containerization58",
+    "owner": "Lorine",
+    "criticality": "critical",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "hostname": "blockchain79",
+    "owner": "Dena",
+    "criticality": "critical",
+    "tags": [
+      "dmz"
+    ]
+  },
+  {
+    "hostname": "backup51",
+    "owner": "Vincent",
+    "criticality": "critical",
+    "tags": [
+      "public"
+    ]
+  },
+  {
+    "hostname": "monitoring54",
+    "owner": "Hedda",
+    "criticality": "critical",
+    "tags": [
+      "dmz"
+    ]
+  },
+  {
+    "hostname": "webserver13",
+    "owner": "Ursulina",
+    "criticality": "critical",
+    "tags": [
+      "database"
+    ]
+  },
+  {
+    "hostname": "blockchain79",
+    "owner": "Chrissie",
+    "criticality": "critical",
+    "tags": [
+      "webteam"
+    ]
+  },
+  {
+    "hostname": "host10",
+    "owner": "Elliott",
+    "criticality": "critical",
+    "tags": [
+      "database"
+    ]
+  },
+  {
+    "hostname": "analytics35",
+    "owner": "Tommi",
+    "criticality": "critical",
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "hostname": "kanban67",
+    "owner": "Dede",
+    "criticality": "critical",
+    "tags": [
+      "database"
+    ]
+  },
+  {
+    "hostname": "devops62",
+    "owner": "Base",
+    "criticality": "critical",
+    "tags": [
+      "windows"
+    ]
+  },
+  {
+    "hostname": "prototype73",
+    "owner": "Brooke",
+    "criticality": "critical",
+    "tags": [
+      "public"
+    ]
+  },
+  {
+    "hostname": "analytics35",
+    "owner": "Gilles",
+    "criticality": "critical",
+    "tags": [
+      "database"
+    ]
+  },
+  {
+    "hostname": "iotdevice23",
+    "owner": "Obidiah",
+    "criticality": "critical",
+    "tags": [
+      "webteam"
+    ]
+  },
+  {
+    "hostname": "testserver4",
+    "owner": "Octavia",
+    "criticality": "critical",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "hostname": "mainframe21",
+    "owner": "Annmarie",
+    "criticality": "critical",
+    "tags": [
+      "database"
+    ]
+  },
+  {
+    "hostname": "sandbox12",
+    "owner": "Aridatha",
+    "criticality": "critical",
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "hostname": "sandbox12",
+    "owner": "Kliment",
+    "criticality": "critical",
+    "tags": [
+      "windows"
+    ]
+  },
+  {
+    "hostname": "scaling55",
+    "owner": "Darell",
+    "criticality": "critical",
+    "tags": [
+      "dmz"
+    ]
+  },
+  {
+    "hostname": "backupserver6",
+    "owner": "Astrix",
+    "criticality": "critical",
+    "tags": [
+      "windows"
+    ]
+  },
+  {
+    "hostname": "dns40",
+    "owner": "Lexine",
+    "criticality": "critical",
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "hostname": "microservices61",
+    "owner": "Viviyan",
+    "criticality": "critical",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "hostname": "fintech81",
+    "owner": "Tarah",
+    "criticality": "critical",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "hostname": "sandbox12",
+    "owner": "Melicent",
+    "criticality": "critical",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "hostname": "spiral68",
+    "owner": "Trudey",
+    "criticality": "critical",
+    "tags": [
+      "public"
+    ]
+  },
+  {
+    "hostname": "monitoring54",
+    "owner": "Carolann",
+    "criticality": "critical",
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "hostname": "edgecomputing22",
+    "owner": "Germain",
+    "criticality": "critical",
+    "tags": [
+      "dmz"
+    ]
+  },
+  {
+    "hostname": "scaling55",
+    "owner": "Shermie",
+    "criticality": "critical",
+    "tags": [
+      "database"
+    ]
+  },
+  {
+    "hostname": "database29",
+    "owner": "Alisun",
+    "criticality": "critical",
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "hostname": "backupserver6",
+    "owner": "Alon",
+    "criticality": "critical",
+    "tags": [
+      "database"
+    ]
+  },
+  {
+    "hostname": "intrusiondetection42",
+    "owner": "Ben",
+    "criticality": "critical",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "hostname": "host10",
+    "owner": "Gerrie",
+    "criticality": "critical",
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "hostname": "dockerhost17",
+    "owner": "Diane-marie",
+    "criticality": "critical",
+    "tags": [
+      "webteam"
+    ]
+  },
+  {
+    "hostname": "kanban67",
+    "owner": "Wendeline",
+    "criticality": "critical",
+    "tags": [
+      "dmz"
+    ]
+  },
+  {
+    "hostname": "intrusiondetection42",
+    "owner": "Aharon",
+    "criticality": "critical",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "hostname": "serverless60",
+    "owner": "Wilmer",
+    "criticality": "critical",
+    "tags": [
+      "webteam"
+    ]
+  },
+  {
+    "hostname": "mainframe21",
+    "owner": "Retha",
+    "criticality": "critical",
+    "tags": [
+      "database"
+    ]
+  },
+  {
+    "hostname": "martech87",
+    "owner": "Rudolph",
+    "criticality": "critical",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "hostname": "agile65",
+    "owner": "Haroun",
+    "criticality": "critical",
+    "tags": [
+      "webteam"
+    ]
+  },
+  {
+    "hostname": "dashboard37",
+    "owner": "Margarita",
+    "criticality": "critical",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "hostname": "backup31",
+    "owner": "Sayre",
+    "criticality": "critical",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "hostname": "edgecomputing22",
+    "owner": "Lorine",
+    "criticality": "critical",
+    "tags": [
+      "dmz"
+    ]
+  },
+  {
+    "hostname": "logistics97",
+    "owner": "Konstanze",
+    "criticality": "critical",
+    "tags": [
+      "public"
+    ]
+  },
+  {
+    "hostname": "server1",
+    "owner": "Aleksandr",
+    "criticality": "critical",
+    "tags": [
+      "webteam"
+    ]
+  },
+  {
+    "hostname": "loadbalancer20",
+    "owner": "Wakefield",
+    "criticality": "critical",
+    "tags": [
+      "windows"
+    ]
+  },
+  {
+    "hostname": "proxyserver19",
+    "owner": "Amelita",
+    "criticality": "critical",
+    "tags": [
+      "windows"
+    ]
+  },
+  {
+    "hostname": "edgecomputing22",
+    "owner": "Wanids",
+    "criticality": "critical",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "hostname": "router25",
+    "owner": "Lawton",
+    "criticality": "critical",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "hostname": "compression49",
+    "owner": "Bianka",
+    "criticality": "critical",
+    "tags": [
+      "windows"
+    ]
+  },
+  {
+    "hostname": "cdn41",
+    "owner": "Ashlee",
+    "criticality": "critical",
+    "tags": [
+      "windows"
+    ]
+  },
+  {
+    "hostname": "logging27",
+    "owner": "Ed",
+    "criticality": "critical",
+    "tags": [
+      "database"
+    ]
+  },
+  {
+    "hostname": "ecommerce99",
+    "owner": "Oliver",
+    "criticality": "critical",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "hostname": "scaling55",
+    "owner": "Olivero",
+    "criticality": "critical",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "hostname": "backupserver6",
+    "owner": "Jonie",
+    "criticality": "critical",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "hostname": "agile65",
+    "owner": "Elnore",
+    "criticality": "critical",
+    "tags": [
+      "dmz"
+    ]
+  },
+  {
+    "hostname": "backup31",
+    "owner": "Nertie",
+    "criticality": "critical",
+    "tags": [
+      "dmz"
+    ]
+  },
+  {
+    "hostname": "scrum64",
+    "owner": "Bernardo",
+    "criticality": "critical",
+    "tags": [
+      "finance"
+    ]
+  }
+]
